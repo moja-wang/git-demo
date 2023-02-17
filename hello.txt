@@ -14,7 +14,7 @@ hello git
 hello git
 hello git
 hello git
-wlb master
+wlb master update
 wlb master
 wlb master
 
